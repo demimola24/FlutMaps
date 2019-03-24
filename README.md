@@ -1,6 +1,9 @@
 # sbtmaps
 
-A new Flutter application.
+A Simple Flutter Map application.
+
+![Screenshot](Screenshot_20190324-004431.png)
+![Screenshot](Screenshot_20190324-004506.png)
 
 ## Getting Started
 
